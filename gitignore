@@ -1,0 +1,5 @@
+node_modules/
+.env
+usd-output/
+*.log
+.DS_Store
